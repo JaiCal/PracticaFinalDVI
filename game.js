@@ -38,8 +38,7 @@ var game = function() {
 				type: Q.SPRITE_PROYECTILE,
 				collisionMask: Q.SPRITE_ENEMY | Q.SPRITE_DEFAULT | Q.SPRITE_BOSS | Q.SPRITE_PROYECTILE,
 				taken: false,
-				muerto: false,
-				damage: 1
+				muerto: false
 			});
 			this.p.posAnt = 0;
 			this.p.posIni = this.p.x;
