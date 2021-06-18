@@ -1,0 +1,4 @@
+{
+	"metall_hidden":{"sx":0,"sy":0,"tileW":18,"tileH":16,"frames":1},
+	"metall_show_up":{"sx":18,"sy":0,"tileW":18,"tileH":16,"frames":1}
+}

@@ -1,0 +1,4 @@
+{
+	"fireman_fire":{"sx":0,"sy":0,"tileW":16,"tileH":30,"frames":6},
+	"fireman_fire_floor":{"sx":98,"sy":17,"tileW":14,"tileH":15,"frames":2}
+}

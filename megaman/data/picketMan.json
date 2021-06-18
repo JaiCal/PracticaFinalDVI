@@ -1,0 +1,5 @@
+
+{
+	"defense":{"sx":0,"sy":0,"tileW":32,"tileH":24,"frames":1},
+	"throwPicket":{"sx":32,"sy":0,"tileW":32,"tileH":24,"frames":2}
+}
